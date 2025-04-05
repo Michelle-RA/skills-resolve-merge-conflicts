@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+aqui es donde vamos a encontrar el conflicto
 # Resolve merge conflicts
 
 _Learn why conflicts happen and how to resolve them._
